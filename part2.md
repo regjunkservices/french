@@ -86,6 +86,7 @@ ils/elles rêvent  |    ils/elles ont rêvé
 
 
 ### Verbe rire (to laugh) [Audio](https://www.scholingua.com/en/fr/conjugation/rire)
+
 Présent|Passé composé
 -------------------|------
 je ris       |     j'ai ri
@@ -96,6 +97,7 @@ vous riez       |    vous avez ri
 ils/elles rient  |    ils/elles ont ri
 
 ### Verbe répondre (to answer) [Audio](https://french.kwiziq.com/revision/grammar/verbs/r%C3%A9pondre)
+
 Présent|Passé composé
 -------------------|------
 je réponds       |     j'ai répondu
@@ -106,6 +108,7 @@ vous répondez       |    vous avez répondu
 ils/elles répondent  |    ils/elles ont répondu
 
 ### Verbe comprendre (to understand) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_comprendre/comprendre_conjug_audio.php)
+
 Présent|Passé composé
 -------------------|-----
 je comprendres     |     j'ai compris
