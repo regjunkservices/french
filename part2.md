@@ -21,7 +21,11 @@
 * __rêve(s)__: _nom masculin_ -> dream(s) (exp: dans mes rêves -> in my dreams)
 * __jamais__: _adv_ -> never
 * __encore__: _adv_ -> still (tu es encore jeune -> you are still young)
-
+* __sport__: _nom masculin_ -> sport (exp: elle est nulle en sport)
+* __puis__: _adv_ -> then (exp: d'abord ce ñ'est pas sa sœur. puis, ... -> first of all, ..., then,..)
+* __nez__: _nom masculin_ -> nose
+* __gâteau__: _nom masculin_ -> cake
+* __fête__: _nom féminin_ -> party
 
 
 ### Verbe Negier (to snow) [Audio](https://www.scholingua.com/en/fr/conjugation/neiger)
@@ -117,5 +121,83 @@ il/elle comprendre     |    il a compris
 nous comprenons      |    nous avons compris
 vous comprenez       |    vous avez compris
 ils/elles comprennent  |    ils/elles ont compris
+
+
+### Verbe détester (to hate) [Audio](https://www.scholingua.com/en/fr/conjugation/d%C3%A9tester)
+
+Présent|Passé composé
+-------------------|------
+je déteste         |     j'ai détesté
+tu détestes          |    tu as détesté
+il/elle déteste      |    il/elle a détesté
+nous détestons       |    nous avons détesté
+vous détestez      |    vous avez détesté
+ils/elles détestent  |    ils/elles ont détesté
+
+### Verbe Aider (to help) [Audio](https://www.scholingua.com/en/fr/conjugation/aider)
+
+Présent|Passé composé
+-------------------|------
+je aide         |     j'ai aidé
+tu aides          |    tu as aidé
+il/elle aide      |    il/elle a aidé
+nous aidons       |    nous avons aidé
+vous aidez       |    vous avez aidé
+ils/elles aident  |    ils/elles ont aidé
+
+### Verbe Savoir (to know) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_savoir/savoir_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je sais         |     j'ai su
+tu sais          |    tu as su
+il/elle sait      |    il/elle a su
+nous savons       |    nous avons su
+vous savez       |    vous avez su
+ils/elles savent  |    ils/elles ont su
+
+### Verbe Arrêter (to stop) [Audio](https://french.kwiziq.com/revision/grammar/verbs/arr%C3%AAter)
+
+Présent|Passé composé
+-------------------|------
+je arrête         |     j'ai arrêté
+tu arrêtes          |    tu as arrêté
+il/elle arrête      |    il/elle a arrêté
+nous arrêtons       |    nous avons arrêté
+vous arrêtez     |    vous avez arrêté
+ils/elles arrêtent  |    ils/elles ont arrêté
+
+### Verbe Fermer (to close) [Audio](https://www.scholingua.com/en/fr/conjugation/fermer)
+
+Présent|Passé composé
+-------------------|------
+je ferme      |     j'ai fermé
+tu fermes          |    tu as fermé
+il/elle ferme      |    il/elle a fermé
+nous fermons       |    nous avons fermé
+vous fermez       |    vous avez fermé
+ils/elles ferment  |    ils/elles ont fermé
+
+### Verbe Acheter (to buy) [Audio](http://www.calypso.mysticomaya.com/verbe_G1_acheter/acheter_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+j'achète         |     j'ai acheté
+tu achètes          |    tu as acheté
+il/elle achète      |    il/elle a acheté
+nous achetons       |    nous avons acheté
+vous achetez       |    vous avez acheté
+ils/elles achètent  |    ils/elles ont acheté
+
+### Verbe Rester (to stay) [Audio](http://www.calypso.mysticomaya.com/verbe_G1_rester/rester_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je reste          |     je suis resté
+tu restes          |    tu es resté 
+il/elle reste      |    il/elle est resté 
+nous restons       |    nous sommes resté 
+vous restez       |    vous êtes resté 
+ils/elles restent  |    ils/elles sont resté 
 
 
