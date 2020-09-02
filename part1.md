@@ -32,10 +32,10 @@ Présent|Passé composé
 -------------------|------
 je vois           |     j'ai vu
 tu vois           |    tu as vu
-il/elle voit      |    il/elle vu
+il/elle voit      |    il/elle a vu
 nous voyons       |    nous avons vu
 vous voyez        |    vous avez vu
-ils/elles voient  |    ils/elles on vu
+ils/elles voient  |    ils/elles ont vu
 
 
 ### Verbe Trouver [Audio](http://www.calypso.mysticomaya.com/verbe_G1_trouver/trouver_conjug_audio.php)
