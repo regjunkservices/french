@@ -44,10 +44,10 @@ Présent|Passé composé
 -------------------|------
 je trouve         |     j'ai trouvé
 tu trouves          |    tu as trouvé
-il/elle trouve      |    il/elle trouvé
+il/elle trouve      |    il/elle a trouvé
 nous trouvons       |    nous avons trouvé
 vous trouvez       |    vous avez trouvé
-ils/elles trouvent  |    ils/elles on trouvé
+ils/elles trouvent  |    ils/elles ont trouvé
 
 ### Verbe regarder [Audio](http://www.calypso.mysticomaya.com/verbe_G1_regarder/regarder_conjug_audio.php)
 
@@ -55,10 +55,10 @@ Présent|Passé composé
 -------------------|------
 je regarde          |     j'ai regardé
 tu regardes          |    tu as regardé
-il/elle regarde   |    il/elle regardé
+il/elle regarde   |    il/elle a regardé
 nous regardons      |    nous avons regardé
 vous regardez       |    vous avez regardé
-ils/elles regardent  |    ils/elles on regardé
+ils/elles regardent  |    ils/elles ont regardé
 
 ### Verbe s'habiller [Audio](https://www.scholingua.com/en/fr/conjugation/s%27habiller)
 
@@ -77,10 +77,10 @@ Présent|Passé composé
 -------------------|------
 j'étudie      |    j'ai étudié 
 tu  étudies        |    tu as étudié
-il/elle  étudie  |    il/elle étudié
+il/elle  étudie  |    il/elle a étudié
 nous  étudions     |     nous avons étudié
 vous   étudiez     |   vous avez étudié
-ils/elles  étudient |    ils/elles on étudié
+ils/elles  étudient |    ils/elles ont étudié
 
 
 ### Verbe tomber  [Audio](http://www.calypso.mysticomaya.com/verbe_G1_tomber/tomber_conjug_audio.php)
