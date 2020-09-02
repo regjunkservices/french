@@ -64,7 +64,7 @@ ils/elles regardent  |    ils/elles on regardé
 
 Présent|X
 ------------|--------
-je m'habille r     |   X 
+je m'habiller     |   X 
 tu  t'habilles      |   X
 il/elle  s'habille  | X
 nous nous habillons |    X 
