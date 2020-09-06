@@ -5,5 +5,10 @@
 
 [Part 2 of __la nuit de Zoe__](part2.md)
 
+[Les Verbes](lesverbes.md)
+
+[Les mots](lesmots.md)
+
+
 
 
