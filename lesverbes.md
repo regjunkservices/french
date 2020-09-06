@@ -62,7 +62,7 @@ ils/elles disent  |    ils/elles ont dit
 Présent|Passé composé
 -------------------|------
 je me souviens          |     je me suis souvenu(e)
-tu te souviens           |    tu te as souvenu(e)
+tu te souviens           |    tu te es souvenu(e)
 il/elle se souvient      |    il/elle s' est souvenu(e)
 nous nous souvenons       |    nous nous sommes souvenu(e)
 vous vous souvenez       |    vous vous êtes souvenu(e)
@@ -75,7 +75,7 @@ ils/elles se souviennent  |    ils/elles se sont souvenu(e)
 Présent|Passé composé
 -------------------|------
 j'arrive          |     je suis arrivé
-tu arrives           |    tu as arrivé
+tu arrives           |    tu es arrivé
 il/elle arrive      |    il/elle est arrivé
 nous arrivons       |    nous sommes arrivé
 vous arrivez       |    vous êtes arrivé
@@ -87,7 +87,7 @@ ils/elles arrivent  |    ils/elles sont arrivé
 Présent|Passé composé
 -------------------|------
 je dors          |     j'ai dormi
-tu dors           |    tu es dormi
+tu dors           |    tu as dormi
 il/elle dort      |    il/elle a dormi
 nous dormons       |    nous avons dormi
 vous dormez       |    vous avez dormi
@@ -99,7 +99,7 @@ ils/elles dorment  |    ils/elles ont dormi
 Présent|Passé composé
 -------------------|------
 je veux          |     j'ai voulu
-tu veux           |    tu es voulu
+tu veux           |    tu as voulu
 il/elle veut      |    il/elle a voulu
 nous voulons       |    nous avons voulu
 vous voulez       |    vous avez voulu
@@ -111,7 +111,7 @@ ils/elles veulent  |    ils/elles ont voulu
 Présent|Passé composé
 -------------------|------
 je  garde         |     j'ai gardé
-tu  gardes          |    tu es gardé
+tu  gardes          |    tu as gardé
 il/elle garde      |    il/elle a gardé
 nous gardons       |    nous avons gardé
 vous  gardez      |    vous avez gardé
@@ -122,7 +122,7 @@ ils/elles gardent  |    ils/elles ont gardé
 Présent|Passé composé
 -------------------|------
 je attends          |     j'ai attendu
-tu attends           |    tu es attendu
+tu attends           |    tu as attendu
 il/elle attend      |    il/elle a attendu
 nous attendons       |    nous avons attendu
 vous attendez       |    vous avez attendu
@@ -133,7 +133,7 @@ ils/elles attendent  |    ils/elles ont attendu
 Présent|Passé composé
 -------------------|------
 je raméne          |     j'ai ramené
-tu raménes           |    tu es ramené
+tu raménes           |    tu as ramené
 il/elle raméne      |    il/elle a ramené
 nous ramenons       |    nous avons ramené
 vous ramenez       |    vous avez ramené
@@ -145,13 +145,34 @@ ils/elles ramènent  |    ils/elles ont ramené
 Présent|Passé composé
 -------------------|------
 j'oublie           |     j'ai oublié
-tu oublies           |    tu es oublié
+tu oublies           |    tu as oublié
 il/elle oublie      |    il/elle a oublié
 nous oublions       |    nous avons oublié
 vous oubliez       |    vous avez oublié
 ils/elles oublient  |    ils/elles ont oublié
 
+### Verbe boire (to drink) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_boire/boire_conjug_audio.php)
 
+Présent|Passé composé
+-------------------|------
+je bois          |     j'ai bu
+tu bois           |    tu as bu
+il/elle boit      |    il/elle a bu
+nous buvons       |    nous avons bu
+vous buvez       |    vous avez bu
+ils/elles boivent  |    ils/elles ont bu
+
+
+### Verbe toucher (to touch) [Audio](https://www.scholingua.com/en/fr/conjugation/toucher)
+
+Présent|Passé composé
+-------------------|------
+je touche          |     j'ai touché
+tu touches          |    tu as touché
+il/elle touche      |    il/elle a touché
+nous touchons       |    nous avons touché
+vous touchez       |    vous avez touché
+ils/elles touchent  |    ils/elles ont touché
 
 
 
