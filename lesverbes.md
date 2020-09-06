@@ -94,6 +94,67 @@ vous dormez       |    vous avez dormi
 ils/elles dorment  |    ils/elles ont dormi
 
 
+### Verbe Vouloir [Audio](http://www.calypso.mysticomaya.com/verbe_G3_vouloir/vouloir_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je veux          |     j'ai voulu
+tu veux           |    tu es voulu
+il/elle veut      |    il/elle a voulu
+nous voulons       |    nous avons voulu
+vous voulez       |    vous avez voulu
+ils/elles veulent  |    ils/elles ont voulu
+
+
+### Verbe Garder [Audio](https://www.scholingua.com/en/fr/conjugation/garder)
+
+Présent|Passé composé
+-------------------|------
+je  garde         |     j'ai gardé
+tu  gardes          |    tu es gardé
+il/elle garde      |    il/elle a gardé
+nous gardons       |    nous avons gardé
+vous  gardez      |    vous avez gardé
+ils/elles gardent  |    ils/elles ont gardé
+
+### Verbe Attendre (to wait) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_attendre/attendre_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je attends          |     j'ai attendu
+tu attends           |    tu es attendu
+il/elle attend      |    il/elle a attendu
+nous attendons       |    nous avons attendu
+vous attendez       |    vous avez attendu
+ils/elles attendent  |    ils/elles ont attendu
+
+### Verbe ramener (bring back, return) [Audio](https://www.scholingua.com/en/fr/conjugation/ramener)
+
+Présent|Passé composé
+-------------------|------
+je raméne          |     j'ai ramené
+tu raménes           |    tu es ramené
+il/elle raméne      |    il/elle a ramené
+nous ramenons       |    nous avons ramené
+vous ramenez       |    vous avez ramené
+ils/elles ramènent  |    ils/elles ont ramené
+
+
+### Verbe oublier (to forget) [Audio](https://www.scholingua.com/en/fr/conjugation/oublier)
+
+Présent|Passé composé
+-------------------|------
+j'oublie           |     j'ai oublié
+tu oublies           |    tu es oublié
+il/elle oublie      |    il/elle a oublié
+nous oublions       |    nous avons oublié
+vous oubliez       |    vous avez oublié
+ils/elles oublient  |    ils/elles ont oublié
+
+
+
+
+
 
 
 
