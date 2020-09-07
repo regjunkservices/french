@@ -39,3 +39,22 @@
 27. __bizarre__: _adj_ -> weired
 28. __timbré, timbrée__: _adj_ -> a little crazy
 29. __bête__: _adj_ -> stupid
+30. __musée__: _nom masculin_ -> museum
+31. __télécommande__: _nom fémnin_ -> TV remote control
+32. __télé__: _nom fémnin_ -> TV
+* la télécommande de la télé(vision) (the TV remote control)
+33. __salle__: _nom fémnin_ -> room (living room where you watch TV, eat, etc. Different from la chambre where you sleep)
+34. __salle de bains__: _nom fémnin_ -> bathroom
+35. __vêtement(s)__: _nom masculin_ -> cloth(es)
+36. __rapide__: _adj_ -> rapid, quick
+37. __valise(s)__: _nom féminin_ -> suitcase(s)
+38. __porteur__: _nom masculin_ -> carrier
+39. __voisin, voisine__: _adj_ -> neighbor
+40. __immédiatement__: _adv_ -> immediately
+41. __four__: _nom masculin_ -> oven
+42. __mort__: _adj_ -> dead
+43. __prendre une douche__ -> take a shower
+* J'ai besoin de prendre une douche (I need to take a shower)
+44. __drôle__: _adj_ -> funny
+45. __méchant, méchante__: _adj_ -> mean, bad
+
