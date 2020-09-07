@@ -175,6 +175,54 @@ vous touchez       |    vous avez touché
 ils/elles touchent  |    ils/elles ont touché
 
 
+### Verbe partir (to leave/go) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_partir/partir_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je pars          |     je suis parti
+tu pars          |    tu es parti
+il/elle part      |    il/elle est parti
+nous partons       |    nous sommes parti
+vous partez       |    vous êtes parti
+ils/elles partent  |    ils/elles sont parti
+
+### Verbe tirer (to pull) [Audio](https://www.scholingua.com/en/fr/conjugation/tirer)
+
+Présent|Passé composé
+-------------------|------
+je tire          |     j'ai tiré
+tu tires          |    tu as tiré
+il/elle tire      |    il/elle a tiré
+nous tirons       |    nous avons tiré
+vous tirez       |    vous avez tiré
+ils/elles tirent  |    ils/elles ont tiré
+
+
+### Verbe tirer (to pull) [Audio](https://www.scholingua.com/en/fr/conjugation/pr%C3%A9f%C3%A9rer)
+
+Présent|Passé composé
+-------------------|------
+je préfère          |     j'ai préféré
+tu  préfères         |    tu as préféré
+il/elle préfère      |    il/elle a préféré
+nous préfèrons       |    nous avons préféré
+vous  préfèrez      |    vous avez préféré
+ils/elles préfèrent  |    ils/elles ont préféré
+
+
+### Verbe deviner (to guess) [Audio](https://www.scholingua.com/en/fr/conjugation/deviner)
+
+Présent|Passé composé
+-------------------|------
+je devine          |     j'ai deviné
+tu  devines         |    tu as deviné
+il/elle devine      |    il/elle a deviné
+nous devinons       |    nous avons deviné
+vous  devinez      |    vous avez deviné
+ils/elles devinent  |    ils/elles ont deviné
+
+* devine quoi!? (guess what!?)
+
 
 
 
