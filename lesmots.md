@@ -57,4 +57,18 @@
 * J'ai besoin de prendre une douche (I need to take a shower)
 44. __drôle__: _adj_ -> funny
 45. __méchant, méchante__: _adj_ -> mean, bad
-
+46. __fantastique__: _adj_ -> fantastic
+47. __copain, copine__: _nom_ -> boyfriend, girlfriend
+48. __rhume__: _nom masculin_ -> cold (as in catch a cold)
+* J'ai un rhume. (I have a cold)
+49. __pyjama__: _nom masculin_ -> pyjamas
+50. __moment__: _nom masculin_ -> moment
+* Tu nous excuses un moment? (do you excuse us for a moment?)
+51. __moche(s)__: _adj_ -> ugly (for people and things)
+52. __tellement__: _adv_ -> so much, severely, a lot 
+52. __démodé__: _adj_ -> outdated, old fashioned
+53. __carnaval__: _nom masculin_ -> carnival
+54. __doivent être__: -> must be...
+55. __pote__: _nom masculin_ -> mate, buddy
+56. __habillée,habillé__: _adj_ -> dressed
+* tu es mal habillé -> you are poorly dressed
