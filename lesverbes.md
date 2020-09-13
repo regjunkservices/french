@@ -223,6 +223,84 @@ ils/elles devinent  |    ils/elles ont deviné
 
 * devine quoi!? (guess what!?)
 
+### Verbe Pouvoir (can) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_pouvoir/pouvoir_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je peux          |     j'ai pu
+tu  peux         |    tu as pu
+il/elle peut      |    il/elle a pu
+nous pouvons       |    nous avons pu
+vous  pouvez      |    vous avez pu
+ils/elles pouvent  |    ils/elles ont pu
+
+
+### Verbe Devoir (have to ) [Audio](http://www.calypso.mysticomaya.com/verbe_G3_devoir/devoir_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je dois          |     j'ai 
+tu  dois         |    tu as dû
+il/elle doit      |    il/elle a dû
+nous devons       |    nous avons dû
+vous  devez      |    vous avez dû
+ils/elles doivent  |    ils/elles ont dû
+
+#### Examples
+* Je dois y aller! (I have to go there)
+
+### Verbe Excuse (to excuse ) [Audio](https://www.scholingua.com/en/fr/conjugation/excuser)
+
+Présent|Passé composé
+-------------------|------
+je excuse          |     j'ai excusé
+tu  excuses        |    tu as excusé
+il/elle excuse      |    il/elle a excusé
+nous excusons       |    nous avons excusé
+vous  excusez      |    vous avez excusé
+ils/elles excusent  |    ils/elles ont excusé
+
+
+### Verbe Emmener (to take ) [Audio](https://www.scholingua.com/en/fr/conjugation/emmener)
+
+Présent|Passé composé
+-------------------|------
+je emmène           |     j'ai emmené
+tu emmènes         |    tu as emmené
+il/elle emmène      |    il/elle a emmené
+nous emmenons        |    nous avons emmené
+vous emmenez       |    vous avez emmené
+ils/elles emmènent  |    ils/elles ont emmené
+
+* Emmène-moi avec toi! (take me with you)
+* Il emmène son chien au parc chaque samedi matin
+* Aimerais-tu que je t’emmène dîner?
+
+
+
+### Verbe Écouter (to listen to) [Audio](http://www.calypso.mysticomaya.com/verbe_G1_ecouter/ecouter_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+j'écoute         |     j'ai 	écouté
+tu écoutes         |    tu as 	écouté
+il/elle écoute      |    il/elle a	écouté 
+nous écoutons        |    nous avons 	écouté
+vous écoutez       |    vous avez 	écouté
+ils/elles écoutent  |    ils/elles ont 	écouté
+
+#### Examples
+* J’écoute de la musique.
+* J’écoute la radio.
+* Je t’écoute.
+* Je vous écoute.
+* Tu m’écoutes.
+* Est-ce que tu m’écoutes?
+* nous l'écoutons jouer du piano (we are listening to him/her playing piano)
+* il écoute le professeur parler.
+
+
+
 
 
 
