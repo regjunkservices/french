@@ -299,6 +299,16 @@ ils/elles écoutent  |    ils/elles ont 	écouté
 * nous l'écoutons jouer du piano (we are listening to him/her playing piano)
 * il écoute le professeur parler.
 
+### Verbe Penser (to think) [Audio](http://www.calypso.mysticomaya.com/verbe_G1_penser/penser_conjug_audio.php)
+
+Présent|Passé composé
+-------------------|------
+je pense         |     j'ai 	pensé
+tu penses         |    tu as 	pensé
+il/elle pence      |    il/elle a	pensé
+nous pensons        |    nous avons 	pensé
+vous pensez       |    vous avez 	pensé
+ils/elles pensent  |    ils/elles ont pensé
 
 
 
