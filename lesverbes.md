@@ -310,7 +310,28 @@ nous pensons        |    nous avons 	pensé
 vous pensez       |    vous avez 	pensé
 ils/elles pensent  |    ils/elles ont pensé
 
+### Verbe Couper (to cut/turn off) [Audio](https://www.scholingua.com/en/fr/conjugation/couper)
 
+Présent|Passé composé
+-------------------|------
+je coupe         |     j'ai coupé
+tu coupes         |    tu as coupé	
+il/elle  coupe     |    il/elle a	coupé
+nous  coupons       |    nous avons coupé	
+vous  coupez      |    vous avez coupé	
+ils/elles coupent  |    ils/elles ont coupé
+
+
+### Verbe Plonger (to dive) [Audio](https://www.scholingua.com/en/fr/conjugation/plonger)
+
+Présent|Passé composé
+-------------------|------
+je plonge         |     j'ai plongé
+tu plonges         |    tu as plongé	
+il/elle plonge      |    il/elle a	plongé
+nous plongeons        |    nous avons plongé	
+vous plongez        |    vous avez plongé	
+ils/elles plongent   |    ils/elles ont plongé
 
 
 
