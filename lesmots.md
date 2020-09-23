@@ -72,3 +72,20 @@
 55. __pote__: _nom masculin_ -> mate, buddy
 56. __habillée,habillé__: _adj_ -> dressed
 * tu es mal habillé -> you are poorly dressed
+57. __chaud, chaude__: _adj_ -> hot,warm
+58. __chaîne__: _nom féminin_ -> chain, system
+59. __partout__: _adv_ -> everywhere
+60. __Qu'est-ce qui se passe?__: -> what is happening?
+61. __micro__: _nom masculin_ -> microphone
+62. __triste__: _adj_ -> sad
+63. __soudain__: _adv_ -> suddenly
+64. __devant__: _prep_ -> in front of
+* devant la porte -> in front of the door
+65. __bougie(s)__: _nom féminin_ -> candle
+66. __anniversaire__: _nom masculin_ -> anniversary
+67. __joyeux, joyeuse__: _adj_ -> happy
+* joyeux anniversaire -> happy birthday
+68. __génial, géniale, géniaux__: _adj_ -> awesome
+69. __chanson__: _nom féminin_ -> song
+70. __pendant,durant__: _prep_ -> during, while
+
