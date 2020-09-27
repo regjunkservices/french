@@ -88,4 +88,13 @@
 68. __génial, géniale, géniaux__: _adj_ -> awesome
 69. __chanson__: _nom féminin_ -> song
 70. __pendant,durant__: _prep_ -> during, while
-
+71. __photo__: _nom féminin_ -> photo
+72. __tête__: _nom féminin_ -> head
+73. __dépassée__: _adj_ -> outdated
+74. __complètement__: _adj_ -> completely
+75. __continuellement__: _adv_ -> continually
+76. __jambe__: _nom féminin_ -> leg
+* jambe gauche (left leg)
+77. __dégoûtant__: _adj_ -> disgusting
+78. __à peine__: _adj_ -> barely
+79. __tout de suite__: _adv_ -> right away, immediately
