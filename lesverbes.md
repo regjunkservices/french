@@ -198,7 +198,7 @@ vous tirez       |    vous avez tiré
 ils/elles tirent  |    ils/elles ont tiré
 
 
-### Verbe tirer (to pull) [Audio](https://www.scholingua.com/en/fr/conjugation/pr%C3%A9f%C3%A9rer)
+### Verbe préférer (to prefer) [Audio](https://www.scholingua.com/en/fr/conjugation/pr%C3%A9f%C3%A9rer)
 
 Présent|Passé composé
 -------------------|------
@@ -334,7 +334,194 @@ vous plongez        |    vous avez plongé
 ils/elles plongent   |    ils/elles ont plongé
 
 
+### Verbe lever (to raise, to rise, to pick up, to lift) [Audio](https://www.scholingua.com/en/fr/conjugation/lever)
 
+Présent|Passé composé
+-------------------|------
+je lève          |     j'ai levé
+tu lèves         |    tu as levé	
+il/elle lève      |    il/elle a levé	
+nous levons        |    nous avons levé	
+vous levez        |    vous avez levé	
+ils/elles lèvent   |    ils/elles ont levé
+
+### Verbe baisser (to drop, to lower) [Audio](https://www.scholingua.com/en/fr/conjugation/baisser)
+
+Présent|Passé composé
+-------------------|------
+je baisse          |     j'ai baissé
+tu baisses        |    tu as baissé
+il/elle baisse      |    il/elle a baissé
+nous baissons        |    nous avons baissé	
+vous baissez        |    vous avez baissé
+ils/elles baissent   |    ils/elles ont baissé
+
+
+
+### Verbe étirer (to strech) [Audio](https://www.scholingua.com/en/fr/conjugation/%C3%A9tirer)
+
+Présent|Passé composé
+-------------------|------
+je  étire         |     j'ai étiré
+tu  étires       |    tu as étiré
+il/elle étire      |    il/elle a étiré
+nous étirons        |    nous avons étiré
+vous étirez        |    vous avez étiré
+ils/elles étirent   |    ils/elles ont étiré
+
+
+### Verbe croire (to believe) [Audio](https://www.scholingua.com/en/fr/conjugation/croire)
+
+Présent|Passé composé
+-------------------|------
+je crois          |     j'ai cru
+tu crois        |    tu as cru
+il/elle croit      |    il/elle a cru
+nous croyons        |    nous avons cru
+vous  croyez       |    vous avez cru
+ils/elles croient   |    ils/elles ont cru
+
+
+### Verbe montrer (to show) [Audio](https://www.scholingua.com/en/fr/conjugation/montrer)
+
+Présent|Passé composé
+-------------------|------
+je montre          |     j'ai montré
+tu montres        |    tu as montré
+il/elle montre      |    il/elle a montré
+nous montrons        |    nous avons montré
+vous montrez        |    vous avez montré
+ils/elles montrent   |    ils/elles ont montré
+
+
+### Verbe déranger (to bother) [Audio](https://www.scholingua.com/en/fr/conjugation/d%C3%A9ranger)
+
+Présent|Passé composé
+-------------------|------
+je dérange          |     j'ai dérangé
+tu déranges        |    tu as dérangé
+il/elle dérange      |    il/elle a dérangé
+nous dérangeons        |    nous avons dérangé
+vous dérangez        |    vous avez dérangé
+ils/elles dérangent   |    ils/elles ont dérangé
+
+* ça ne me dérange pas ( it is not bothering me)
+
+
+### Verbe bouger (to move) [Audio]()
+
+Présent|Passé composé
+-------------------|------
+je bouge           |     j'ai bougé
+tu bouges        |    tu as bougé
+il/elle bouge      |    il/elle a bougé
+nous bougeons        |    nous avons bougé
+vous bougez        |    vous avez bougé
+ils/elles bougent   |    ils/elles ont bougé
+
+
+### Verbe sauter (to jump) [Audio](https://www.scholingua.com/en/fr/conjugation/sauter)
+
+Présent|Passé composé
+-------------------|------
+je saute          |     j'ai sauté
+tu sautes          |    tu as sauté
+il/elle saute      |    il/elle a sauté
+nous sautons       |    nous avons sauté
+vous sautez       |    vous avez sauté
+ils/elles sautent  |    ils/elles ont sauté
+
+
+### Verbe vérifier (to check) [Audio](https://www.scholingua.com/en/fr/conjugation/v%C3%A9rifier)
+
+Présent|Passé composé
+-------------------|------
+je vérifie           |     j'ai vérifié
+tu vérifies          |    tu as vérifié
+il/elle vérifie      |    il/elle a vérifié
+nous vérifions       |    nous avons vérifié
+vous vérifiez       |    vous avez vérifié
+ils/elles vérifient  |    ils/elles ont vérifié
+
+
+
+### Verbe mettre (to put) [Audio](https://www.scholingua.com/en/fr/conjugation/mettre)
+
+Présent|Passé composé
+-------------------|------
+je met            |     j'ai mis
+tu mets          |    tu as mis
+il/elle  met      |    il/elle a mis
+nous mettons       |    nous avons mis
+vous mettez       |    vous avez mis
+ils/elles mettent  |    ils/elles ont mis
+
+
+
+### Verbe parier (to bet) [Audio]()
+
+Présent|Passé composé
+-------------------|------
+je parie            |     j'ai parié
+tu paries        |    tu as parié
+il/elle parie       |    il/elle a parié
+nous parions       |    nous avons parié
+vous pariez        |    vous avez parié
+ils/elles parient  |    ils/elles ont parié
+
+
+### Verbe  (to answer/respond) [Audio](https://www.scholingua.com/en/fr/conjugation/r%C3%A9pondre)
+
+Présent|Passé composé
+-------------------|------
+je réponds            |     j'ai répondu
+tu réponds        |    tu as répondu 
+il/elle répond       |    il/elle a répondu
+nous répondons       |    nous avons répondu
+vous répondez        |    vous avez répondu
+ils/elles répondent  |    ils/elles ont répondu
+
+
+
+### Verbe arroser (to water) [Audio](https://www.scholingua.com/en/fr/conjugation/arroser)
+
+Présent|Passé composé
+-------------------|------
+je arrose            |     j'ai arrosé
+tu arroses        |    tu as arrosé 
+il/elle arrose       |    il/elle a arrosé
+nous arrosons       |    nous avons arrosé
+vous arrosez        |    vous avez arrosé
+ils/elles arrosent  |    ils/elles ont arrosé
+
+*Tu peux arroser ma plante? (can you water my plant?)
+
+
+
+
+### Verbe apporter (to bring) [Audio](https://www.scholingua.com/en/fr/conjugation/apporter)
+
+Présent|Passé composé
+-------------------|------
+je apporte            |     j'ai apporté
+tu apportes        |    tu as apporté 
+il/elle apporte       |    il/elle a apporté
+nous apportons       |    nous avons apporté
+vous apportez        |    vous avez apporté
+ils/elles apportent  |    ils/elles ont apporté
+
+
+
+### Verbe monter (to acsend) [Audio](https://www.scholingua.com/en/fr/conjugation/monter)
+
+Présent|Passé composé
+-------------------|------
+je monte            |     j'ai monté
+tu montes        |    tu as  monté
+il/elle  monte      |    il/elle a monté
+nous montons        |    nous avons monté
+vous montez        |    vous avez monté
+ils/elles montent  |    ils/elles ont monté
 
 
 
